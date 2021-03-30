@@ -53,4 +53,41 @@ footer h3 {
   font-weight: 700;
   font-size: 15px;
   margin-top: 30px;
+  margin-left: 13px;
+}
+
+@media screen and (min-width: 1200px) {
+  #main-banner {
+    margin-top: 40px;
+    margin-left: 67px;
+  }
+
+  #main-bg {
+    width: 539.22px;
+    height: 447.43px;
+    margin-top: 60px;
+    margin-left: 77px;
+  }
+
+  #wrapper {
+    float: right;
+    margin-right: 154px;
+    margin-top: 60px;
+  }
+
+  #wrapper #intro {
+    font-weight: 700;
+    font-size: 64px;
+    margin: 0px;
+  }
+
+  #wrapper #info {
+    font-size: 24px;
+  }
+
+  footer h3 {
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: center;
+  }
 }
