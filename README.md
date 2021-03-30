@@ -8,13 +8,12 @@
 
 <div align="center">
   <h3>
-    <a href="https://{nervous-shaw-3d0501.netlify.app/}">
+    <a href="https://nervous-shaw-3d0501.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/LaxmanJonchhen12/404-not-found}">
-    <a href="https://{github.com/LaxmanJonchhen12/404-not-found}">
-    <a href="https://{github.com/LaxmanJonchhen12/404-not-found}">
+    <a href="https://github.com/LaxmanJonchhen12/404-not-found">
+    <a href="https://{github.com/LaxmanJonchhen12/404-not-found">
       Solution
     </a>
     <span> | </span>
