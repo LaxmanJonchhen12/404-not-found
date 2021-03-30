@@ -38,12 +38,12 @@
 
 ![screenshot](img/404.JPG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This is a solution of 404 Page Challenge of https://devchallenges.io/
+<br>
+Demo Link <br>
+https://nervous-shaw-3d0501.netlify.app/
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+I learned responsive design skills while doing this challenge and improved my css skills.
 
 ### Built With
 
