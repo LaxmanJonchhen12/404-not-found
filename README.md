@@ -12,7 +12,6 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/LaxmanJonchhen12/404-not-found">
     <a href="https://{github.com/LaxmanJonchhen12/404-not-found">
       Solution
     </a>
